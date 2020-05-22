@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Looping/pom.xml" />
+        <option value="$PROJECT_DIR$/contador/pom.xml" />
+        <option value="$PROJECT_DIR$/Fatorial/pom.xml" />
+        <option value="$PROJECT_DIR$/possoVotar/pom.xml" />
+        <option value="$PROJECT_DIR$/TesteFucao/pom.xml" />
+        <option value="$PROJECT_DIR$/TesteTiipos/pom.xml" />
+        <option value="$PROJECT_DIR$/RelogioSwing/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenproject1/pom.xml" />
+        <option value="$PROJECT_DIR$/ExercicioVetor/pom.xml" />
+        <option value="$PROJECT_DIR$/formulaBaskara/pom.xml" />
+        <option value="$PROJECT_DIR$/MetodoFatorial/pom.xml" />
+        <option value="$PROJECT_DIR$/ExercicioRepita/pom.xml" />
+        <option value="$PROJECT_DIR$/tiposTriangulos/pom.xml" />
+        <option value="$PROJECT_DIR$/calculadoraIdade/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperCalculadora/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenproject1ffff/pom.xml" />
+        <option value="$PROJECT_DIR$/VerificadorIdadeSwing/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

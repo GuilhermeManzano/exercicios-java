@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ExercicioVetor" />
+        <module name="ExercicioRepita" />
+        <module name="calculadoraIdade" />
+        <module name="mavenproject1ffff" />
+        <module name="TesteTiipos" />
+        <module name="SuperCalculadora" />
+        <module name="possoVotar" />
+        <module name="tiposTriangulos" />
+        <module name="MetodoFatorial" />
+        <module name="mavenproject1" />
+        <module name="VerificadorIdadeSwing" />
+        <module name="RelogioSwing" />
+        <module name="Looping" />
+        <module name="TesteFucao" />
+        <module name="formulaBaskara" />
+        <module name="Fatorial" />
+        <module name="contador" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gradleproject1.main" target="13" />
+      <module name="gradleproject1.test" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
